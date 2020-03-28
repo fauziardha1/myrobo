@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/myrobo/static/css/main.2491268e.chunk.css",
+    "main.js": "/myrobo/static/js/main.c8291be5.chunk.js",
+    "main.js.map": "/myrobo/static/js/main.c8291be5.chunk.js.map",
+    "runtime-main.js": "/myrobo/static/js/runtime-main.5fdaac17.js",
+    "runtime-main.js.map": "/myrobo/static/js/runtime-main.5fdaac17.js.map",
+    "static/css/2.07548e1c.chunk.css": "/myrobo/static/css/2.07548e1c.chunk.css",
+    "static/js/2.8ca0bda2.chunk.js": "/myrobo/static/js/2.8ca0bda2.chunk.js",
+    "static/js/2.8ca0bda2.chunk.js.map": "/myrobo/static/js/2.8ca0bda2.chunk.js.map",
+    "index.html": "/myrobo/index.html",
+    "precache-manifest.fd4828c0b34b4cbb6941c9d5f29ce32f.js": "/myrobo/precache-manifest.fd4828c0b34b4cbb6941c9d5f29ce32f.js",
+    "service-worker.js": "/myrobo/service-worker.js",
+    "static/css/2.07548e1c.chunk.css.map": "/myrobo/static/css/2.07548e1c.chunk.css.map",
+    "static/css/main.2491268e.chunk.css.map": "/myrobo/static/css/main.2491268e.chunk.css.map",
+    "static/js/2.8ca0bda2.chunk.js.LICENSE.txt": "/myrobo/static/js/2.8ca0bda2.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/myrobo/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fdaac17.js",
+    "static/css/2.07548e1c.chunk.css",
+    "static/js/2.8ca0bda2.chunk.js",
+    "static/css/main.2491268e.chunk.css",
+    "static/js/main.c8291be5.chunk.js"
+  ]
+}
